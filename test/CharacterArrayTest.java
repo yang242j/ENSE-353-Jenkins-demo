@@ -1,4 +1,4 @@
-package chapter7_part1;
+package test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
